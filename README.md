@@ -1,2 +1,2 @@
-# Educational_Covid-19_Game
-This game was developed for Hack The North 2020
+# Educational-COVID-Game
+Hack The North 2021 Project. Covid Education Game
